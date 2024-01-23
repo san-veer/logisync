@@ -1,0 +1,1 @@
+export const honeycombbg = 'https://i.imgur.com/EC1y2qQ.jpg'; 
